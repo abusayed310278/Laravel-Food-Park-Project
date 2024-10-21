@@ -17,3 +17,5 @@ admin panel link:  http://127.0.0.1:8000/admin/login
 
 gmail: admin@gmail.com
 pass: password
+
+#Here, you have been find out food_park.sql file which i created on my development time.
