@@ -10,3 +10,10 @@ Laravel Food Park Project
 
 On the backend, admins can efficiently manage orders, payment methods, and coupons. The admin panel provides full control over the platform, ensuring smooth operations and customer satisfaction.
 
+
+Admin Panel: 
+------------
+admin panel link:  http://127.0.0.1:8000/admin/login
+
+gmail: admin@gmail.com
+pass: password
